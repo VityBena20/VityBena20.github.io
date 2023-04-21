@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- <?xml-stylesheet type="text/xsl" href="XX.xsl"?>
+       siendo xx.xsl el nombre del fichero XSLT  -->
+<paises>
+    <topDiez>
+        <pais>Suecia</pais>
+        <participante>Lorren-Tattoo</participante>
+        <pais>Finlandia</pais>
+        <participante>Kaarija-cha cha cha</participante>
+        <pais>Noruega</pais>
+        <participante>Alessandra-Queen of kings</participante>
+        <pais>Ucrania</pais>
+        <participante>Tvorchi-heart of steel</participante>
+        <pais>España</pais>
+        <participante>Blanca Paloma-Eaea</participante>
+        <pais>Austria</pais>
+        <participante>Teya y Salena-who the hell is edgar?</participante>
+        <pais>Israel</pais>
+        <participante>Noa kirel-Unicorn</participante>
+        <pais>Francia</pais>
+        <participante>La zarra-evidemment</participante>
+        <pais>Italia</pais>
+        <participante>Marco mengoni-Due vite</participante>
+        <pais>Armenia</pais>
+        <participante>Brunette-Future lover</participante>            
+    </topDiez>
+    <topCinco>
+        <pais>Suecia</pais>
+        <participante>Lorren-Tattoo</participante>
+        <pais>Finlandia</pais>
+        <participante>Kaarija-cha cha cha</participante>
+        <pais>Noruega</pais>
+        <participante>Alessandra-Queen of kings</participante>
+        <pais>Ucrania</pais>
+        <participante>Tvorchi-heart of steel</participante>
+        <pais>España</pais>
+        <participante>Blanca Paloma-Eaea</participante>            
+    </topCinco>
+    <topTres>
+        <pais>Suecia</pais>
+        <participante>Lorren-Tattoo</participante>
+        <pais>Finlandia</pais>
+        <participante>Kaarija-cha cha cha</participante>
+        <pais>Ucrania</pais>
+        <participante>Tvorchi-heart of steel</participante>
+                    
+    </topTres>
+    <Ganador>
+        <pais>Suecia</pais>
+        <participante>Lorren-Tattoo</participante>           
+    </Ganador>
+</paises>
