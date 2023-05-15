@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- <?xml-stylesheet type="text/xsl" href="XX.xsl"?>
+       siendo xx.xsl el nombre del fichero XSLT  -->
+<paises>
+    <PrimeraParte>
+		<pais>Austria</pais>
+        <participante>Teya y Salena-who the hell is edgar?</participante>
+		<pais>Portugal</pais>
+        <participante>Mimicat-Ai Corazçao</participante>
+		<pais>Suiza</pais>
+        <participante>Remo Forrer-Waterguns</participante> 
+		<pais>Polonia</pais>
+        <participante>Blanka-Solo</participante>
+		<pais>Serbia</pais>
+        <participante>Luke Black-Samo Mi Se Spava</participante> 
+		<pais>Francia</pais>
+        <participante>La Zarra-Evidemment</participante> 
+		<pais>Chipre</pais>
+        <participante>Andrew Lambrow</participante>
+        <pais>España</pais>
+        <participante>Blanca Paloma-EAEA</participante> 
+        <pais>Suecia</pais>
+        <participante>Loreen-Tattoo</participante>
+		 <pais>Albania</pais>
+        <participante>Albina y familja Kelmendi-Duje</participante>  
+        <pais>Italia</pais>
+        <participante>Marco Mengoni-Due Vite</participante> 
+         <pais>Estonia</pais>
+        <participante>Alika-Bridges</participante>
+        <pais>Finlandia</pais>
+        <participante>Kaarija-Cha cha cha</participante>          
+    </PrimeraParte>
+     <SegundaParte>
+        <pais>Chequia</pais>
+        <participante>Vesna-My Sister's Crown</participante> 
+		<pais>Australia</pais>
+        <participante>Voyager-Promise</participante>
+		<pais>Belgica</pais>
+        <participante>Gustaph-Because of you</participante>
+		<pais>Armenia</pais>
+        <participante>Brunette-Future Lover</participante>
+		<pais>Moldavia</pais>
+        <participante>Pasha Parfeni-Soarele si luna</participante>
+		<pais>Ucrania</pais>
+        <participante>Tvorchi-Heart Of Steel</participante>
+		<pais>Noruega</pais>
+        <participante>Alessandra-Queen of kings</participante>
+        <pais>Alemania</pais>
+        <participante>Lord of the lost-Blood and Glitter</participante> 
+		<pais>Lituania</pais>
+        <participante>Monika Linkyte-Stay</participante>
+        <pais>Israel</pais>
+        <participante>Noa Kirel-Unicorn</participante> 
+        <pais>Eslovenia</pais>
+        <participante>Jocker Out-Carpe diem</participante>      
+		<pais>Croacia</pais>
+        <participante>Let 3-Mama SÇ</participante>
+        <pais>Reino Unido</pais>
+        <participante>Mae Muller- I Wrote A Song</participante>            
+    </SegundaParte>
+</paises>

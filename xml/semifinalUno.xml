@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- <?xml-stylesheet type="text/xsl" href="XX.xsl"?>
+       siendo xx.xsl el nombre del fichero XSLT  -->
+<paises>
+    <clasificados>
+        <pais>Suecia</pais>
+        <participante>Lorren-Tattoo</participante>
+        <pais>Finlandia</pais>
+        <participante>Kaarija-cha cha cha</participante>
+        <pais>Noruega</pais>
+        <participante>Alessandra-Queen of kings</participante>
+        <pais>Chequia</pais>
+        <participante>Vesna-My sister´s crown</participante>
+        <pais>Moldavia</pais>
+        <participante>Pasha parfeni-soarele si luna</participante>
+        <pais>Croacia</pais>
+        <participante>let3-mama SC</participante>
+        <pais>Israel</pais>
+        <participante>Noa kirel-Unicorn</participante>
+        <pais>Serbia</pais>
+        <participante>Luke Black-Samo mi se spava</participante>
+        <pais>Suiza</pais>
+        <participante>Remo forrer-Waterguns</participante>
+        <pais>Portugal</pais>
+        <participante>Mimicat-Ai coraçao</participante>            
+    </clasificados>
+    <noClasificados>
+        <pais>Azerbaiyan</pais>
+        <participante>TuralTuranX-Tell me more</participante>
+        <pais>Irlanda</pais>
+        <participante>Wild Youth-We are one</participante>
+        <pais>Malta</pais>
+        <participante>The busker-Dance(our own party)</participante>
+        <pais>Letonia</pais>
+        <participante>Sudden Lights-aija</participante>
+        <pais>Paises Bajos</pais>
+        <participante>Mia nicolai y Dion cooper-Burning daylight</participante>            
+    </noClasificados>
+</paises>

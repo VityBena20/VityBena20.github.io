@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- <?xml-stylesheet type="text/xsl" href="XX.xsl"?>
+       siendo xx.xsl el nombre del fichero XSLT  -->
+<paises>
+    <clasificados>
+        <pais>Austria</pais>
+        <participante>Teya y Salena-who the hell is edgar?</participante>
+        <pais>Australia</pais>
+        <participante>Voyager-Promise</participante>
+        <pais>Chipre</pais>
+        <participante>Andrew Lambrow</participante>
+        <pais>Georgia</pais>
+        <participante>Iru-Echo</participante>
+        <pais>Armenia</pais>
+        <participante>Brunette-Future Lover</participante>
+        <pais>Lituania</pais>
+        <participante>Monika Linkyte-Stay</participante>
+        <pais>Eslovenia</pais>
+        <participante>Jocker Out-Carpe diem</participante>
+        <pais>Estonia</pais>
+        <participante>Alika-Bridges</participante>
+        <pais>Grecia</pais>
+        <participante>Victor Vernicos-What they say</participante>
+        <pais>Belgica</pais>
+        <participante>Gustaph-Because of you</participante>           
+    </clasificados>
+    <noClasificados>
+        <pais>San Marino</pais>
+        <participante>Picked jacks-Like an animal</participante>
+        <pais>Rumania</pais>
+        <participante>Theodor Andrei-DGT</participante>  
+        <pais>Islandia</pais>
+        <participante>Dilja-Power</participante>  
+        <pais>Albania</pais>
+        <participante>Albina y familja Kelmendi-Duje</participante>  
+        <pais>Dinamarca</pais>
+        <participante>Reiley-Breaking my heart</participante>  
+        <pais>Polonia</pais>
+        <participante>Blanka-Solo</participante>              
+    </noClasificados>
+</paises>
